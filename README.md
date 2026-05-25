@@ -77,11 +77,6 @@ Experiment/
 
 At the moment, some measurement values are included directly in the notebooks rather than as separate CSV files.
 
-## Note on reproducibility
-
-The long-term goal is to make selected lab reports reproducible by including the final report, the analysis workflow, and the generated figures.
-
-Not every experiment has been fully organized yet. I am prioritizing the strongest and most relevant reports first.
 
 ## Usage note
 
