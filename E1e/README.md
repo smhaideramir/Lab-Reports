@@ -4,6 +4,10 @@ This folder contains my work for the E1e physics lab experiment, including the f
 
 The goal of this folder is to make the experiment easier to understand than a standalone PDF report by showing the analysis workflow and the main figures separately.
 
+## Preview
+
+![Task 4 measured and theoretical transfer function](plots/task4_transfer_HP_measured_vs_theory.png)
+
 ## Contents
 
 | Folder | Description |
